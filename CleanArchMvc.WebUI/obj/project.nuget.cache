@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SOAqVH86Odre6v0tyBn3ociJA2EwrBwEeG2CIpkgRkBxzLgq6xwbaW8QVbKHksLLXXbIASVomWV3fLjQN9x5Gg==",
+  "dgSpecHash": "Z0XzaI69IELEqO7akiYncbcXIUOwRBJvqqR3IwNtbecEclTRDav8xvwE/9z1u04yAK839V3jZGCyeiLAzI+ZxQ==",
   "success": true,
   "projectFilePath": "C:\\curso_cleanarq\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cralmeida\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\cralmeida\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\cralmeida\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\cralmeida\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.14\\microsoft.aspnetcore.mvc.razor.extensions.5.0.14.nupkg.sha512",
     "C:\\Users\\cralmeida\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.14\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.14.nupkg.sha512",
