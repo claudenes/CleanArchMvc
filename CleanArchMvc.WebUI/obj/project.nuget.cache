@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+UlmffN7aNxPr5cXQ6PjfJk/MaHstM6OABYtmnnwyA8OM+xFqfhLsvmNDybkrC4a3oX84u9LII+Kt76kGKAVMg==",
+  "dgSpecHash": "SOAqVH86Odre6v0tyBn3ociJA2EwrBwEeG2CIpkgRkBxzLgq6xwbaW8QVbKHksLLXXbIASVomWV3fLjQN9x5Gg==",
   "success": true,
   "projectFilePath": "C:\\curso_cleanarq\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\cralmeida\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\cralmeida\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\cralmeida\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.14\\microsoft.aspnetcore.mvc.razor.extensions.5.0.14.nupkg.sha512",
     "C:\\Users\\cralmeida\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.14\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.14.nupkg.sha512",
@@ -74,7 +75,7 @@
     "C:\\Users\\cralmeida\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\cralmeida\\.nuget\\packages\\system.private.uri\\4.3.2\\system.private.uri.4.3.2.nupkg.sha512",
     "C:\\Users\\cralmeida\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\cralmeida\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\cralmeida\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\cralmeida\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\cralmeida\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\cralmeida\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
