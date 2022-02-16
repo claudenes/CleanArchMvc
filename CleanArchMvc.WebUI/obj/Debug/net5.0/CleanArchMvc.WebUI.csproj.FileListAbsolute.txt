@@ -394,3 +394,5 @@ C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\AutoMapper.dl
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
