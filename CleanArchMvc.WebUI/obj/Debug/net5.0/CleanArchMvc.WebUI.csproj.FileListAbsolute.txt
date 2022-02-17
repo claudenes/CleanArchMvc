@@ -404,3 +404,4 @@ C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\C
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
