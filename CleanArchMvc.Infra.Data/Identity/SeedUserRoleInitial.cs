@@ -54,7 +54,7 @@ namespace CleanArchMvc.Infra.Data.Identity
 
                 if (result.Succeeded)
                 {
-                    _userManager.AddToRoleAsync(user, "Admin").Wait();
+                    _userManager.AddToRoleAsync(user, "ADMIN").Wait();
                 }
 
 
