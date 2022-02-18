@@ -49,7 +49,6 @@ C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.Ident
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -75,3 +74,5 @@ C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.In
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.Application.pdb
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
 C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.API\bin\Debug\net5.0\FluentAssertions.dll
