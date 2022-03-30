@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vr2JRskA0bX6Qp/rL2s0++QwrfAPRpJq7Inl186+2Y38/H6f+hsheaBWQ38Bbt52DPBLcP6b/TohoHDUqgt55A==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\TFS\\IntegracaoGoogle\\src\\IntegracaoGoogle.Application\\IntegracaoGoogle.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cralmeida\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\cralmeida\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\cralmeida\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\cralmeida\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
